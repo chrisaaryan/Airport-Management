@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1669090285 source:f:\codeblocks\airportmanagement\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+	<sstream>
+	<conio.h>
+	<Windows.h>
+
